@@ -1,3 +1,30 @@
-page-home {
-
-}
+.ios, .md {
+    .title_login{
+      color: #000;
+      margin-top: 30vh;
+      margin-bottom: 5vh;
+      text-align: center;
+      font-size: 1.7em;
+      font-weight: 700;
+      color: #fff;
+    }
+    .content_login{
+      padding: 0px 20px;
+    }
+    .button_login{
+      margin: 30px 10%;
+      width: 80%;
+      text-align: center;
+      background-color: #0040FF;
+    }
+    .button_login:hover{
+      background-color: #58ACFA;
+    }
+    .content_login{
+      background-color: #0404B4;
+    }
+    .scroll-content {
+      overflow-y: auto;
+    }
+  
+  }
